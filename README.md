@@ -8,6 +8,7 @@ This is simple Banking project, allows user to deposit, withdraw & enquiry the a
 **II. Technology Stack**
 
 Language: Python(3.6)
+
 IDE used: Pycharm
 
 **III. Workflow**
