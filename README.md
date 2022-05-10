@@ -28,9 +28,14 @@ Enter the amount to deposit: 5000
 
 your amount is deposited 5000
 
+Enter the amount you want to withdraw: 2000
+
+please collect your cash and remaining balance is 3000
 
 
+**V. Applications & Future Scope**
 
+This Banking project is used in mobile applications in daily routine, and can also be implemented with interactive UI.
 
 
 
