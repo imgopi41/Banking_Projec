@@ -21,6 +21,19 @@ IDE used: Pycharm
 
 **IV. Demo**
 
+Your account is created
+
+Enter the amount to deposit: 5000
+
+your amount is deposited 5000
+
+
+
+
+
+
+
+
 
 
 
