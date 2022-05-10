@@ -24,11 +24,11 @@ IDE used: Pycharm
 
 Your account is created
 
-1. Enter the amount to deposit: 5000
+Enter the amount to deposit: 5000
 
 your amount is deposited 5000
 
-2. Enter the amount you want to withdraw: 2000
+Enter the amount you want to withdraw: 2000
 
 please collect your cash and remaining balance is 3000
 
