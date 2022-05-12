@@ -21,8 +21,9 @@ IDE used: Pycharm(3.6)
 6. Object is created to call all the classes.
 
 **IV. Demo**
-![Capture](https://user-images.githubusercontent.com/99798157/168046104-ff8aa7c7-6ad9-4ecb-8ba8-7ca8946d539f.JPG)
 
+
+![Capture](https://user-images.githubusercontent.com/99798157/168046104-ff8aa7c7-6ad9-4ecb-8ba8-7ca8946d539f.JPG)
 
 
 **V. Applications & Future Scope**
