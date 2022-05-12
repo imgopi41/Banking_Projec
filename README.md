@@ -23,7 +23,8 @@ IDE used: Pycharm(3.6)
 **IV. Demo**
 
 
-![Capture](https://user-images.githubusercontent.com/99798157/168046104-ff8aa7c7-6ad9-4ecb-8ba8-7ca8946d539f.JPG)
+![Demo_output](https://user-images.githubusercontent.com/99798157/168047594-456dae28-7c3d-4537-84cc-d6af763a7fb6.JPG)
+
 
 
 **V. Applications & Future Scope**
