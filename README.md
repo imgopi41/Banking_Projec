@@ -21,16 +21,8 @@ IDE used: Pycharm(3.6)
 6. Object is created to call all the classes.
 
 **IV. Demo**
+![Capture](https://user-images.githubusercontent.com/99798157/168046104-ff8aa7c7-6ad9-4ecb-8ba8-7ca8946d539f.JPG)
 
-Your account is created
-
-Enter the amount to deposit: 5000
-
-your amount is deposited 5000
-
-Enter the amount you want to withdraw: 2000
-
-please collect your cash and remaining balance is 3000
 
 
 **V. Applications & Future Scope**
